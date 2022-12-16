@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alexandre
 - 👀 I’m interested in back-end development
-- 🌱 I’m currently learning more about Containers and Tests
 - 📫 How to reach me: idd_aqueiroz@uolinc.com
 
 <!---
